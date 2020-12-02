@@ -1,0 +1,7 @@
+{
+	"tries": "5",
+  "limit": "5",
+  "sort": "top",
+  "sortdur": "today",
+  "sections": "webdev, programming, AskProgramming, LearnProgramming, Coding, JavaScript, LearnJavaScript, PHP, Learnwebdev, learnpython, dailyprogrammer, programmingtools"
+}
